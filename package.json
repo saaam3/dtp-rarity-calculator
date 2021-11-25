@@ -1,0 +1,15 @@
+{
+   "name": "dtp-rarity-calculator",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "dependencies": {
+      "fs-extra": "^10.0.0"
+   },
+   "devDependencies": {},
+   "scripts": {
+      "start": "node src/index.js"
+   },
+   "author": "",
+   "license": "ISC"
+}
